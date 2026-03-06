@@ -17,9 +17,9 @@
 
 ### 2. Nanobanana
 
-Bot for image generation from text prompts. User sends a description — the bot generates an image via AI API and returns it. Dialog flow, error handling, and media handling.
+Бот для генерации изображений по текстовому запросу. Пользователь отправляет описание — бот генерирует картинку через AI API и возвращает результат. Логика диалога, обработка ошибок и медиа.
 
-**Stack:** Python · Telegram Bot API · image generation API
+**Стек:** Python · Telegram Bot API · API генерации изображений
 
 ---
 
